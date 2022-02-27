@@ -1,0 +1,130 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Full account of the barbarous and unhumane usages of the French Protestants in France</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84951</idno>
+            <idno type="STC">Wing F2265</idno>
+            <idno type="STC">ESTC R42499</idno>
+            <idno type="EEBO-CITATION">36282138</idno>
+            <idno type="OCLC">ocm 36282138</idno>
+            <idno type="VID">150057</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84951)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150057)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2228:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Full account of the barbarous and unhumane usages of the French Protestants in France</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l :</pubPlace>
+                  <date>after 1685?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The Edict of Nantes, which allowed freedom of worship to the French Protestants, was revoked in 1685. The "dragonnades" took place ca. 1683-1686 or 7.--Cf. Oxford Dict. Christian Church.</note>
+                  <note>Imperfect: stained, tightly bound, and with print show-through.</note>
+                  <note>Reproduction of original in the Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Persecution --  France --  History --  17th century.</term>
+               <term>Dragonnades.</term>
+               <term>Huguenots --  France.</term>
+               <term>Broadsides --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:150057:1" rendition="simple:additions"/>
+            <head>A Full ACCOUNT OF The Barbarous and Unhumane Uſages OF <hi>The French Proteſtants</hi> IN FRANCE:</head>
+            <p>
+               <hi>HAgue, Decemb.</hi> 16. Our laſt Letters from <hi>Paris</hi> ſay, That ſome days ago, one of the largeſt Stage Coaches in that City, attended by eight Archers, went to the Baſtile, to bring thence 8 or 10 Perſons who were detain'd there on the Account of the Proteſtant Religion, in order to tranſport them to the Frontiers, but whether they are to be ſent out of the Kingdom, or not, is not ſaid. The new Converts would be well ſatisfied, if they might have the ſame Treatment; eſpecially, ſince the Judgment given a<g ref="char:EOLhyphen"/>gainſt ſome of their Bretheren, by the Intendant of <hi>Poitou,</hi> ac<g ref="char:EOLhyphen"/>cording to which ſome of them have been executed, and others ſent to the Gallies; and there are, moreover, ſome Regiments of Dragoons ſent into that Countrey, to be Quartered upon the new Converts. Several Letters have been writ upon that Subject by the new Converts, to ſhew that they are more worthy of Compaſſion, than of the Severity of the Judges, ſeeing they are accuſed of no other Crime but that of their Religion, which was formerly al<g ref="char:EOLhyphen"/>lowed in the Kingdom, tho' now forbidden; and, as to which, it is not in their own Power to change their opinion, or neglect their Duty. Thoſe Letters contain in ſubſtance: That their Con<g ref="char:EOLhyphen"/>dition is very deplorable, by reaſon of thoſe Fears and Doubts, with which they are conſtantly perplex'd, amidſt a Clergy who never ſuffer them to be at reſt: They are not ſatisfied with having
+<pb facs="tcp:150057:2"/> oblig'd them to take upon themſelves the Title <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Roman Catholicks</hi> contrary to their will, but they will have them to perform all that's incombent upon ſuch, to aſſiſt at a Service and partake of a Com<g ref="char:EOLhyphen"/>munion, which they are perſwaded in their Conſciences is contrary to Divine Inſtitution, which they ought rather to obey than that of Men. That is to ſay they would have them either to be ac<g ref="char:EOLhyphen"/>counted Diſſemblers or Sacrilegious. They ſay they muſt go to be inſtructed; which they would do with all their Hearts, provi<g ref="char:EOLhyphen"/>ded they were allowed freedom to debate when they are not con<g ref="char:EOLhyphen"/>vinc'd; but Inſtead of that as ſoon as they open their Mouth they are Branded as Opiniators. It's their ſubmiſſion and their Convi<g ref="char:EOLhyphen"/>ction, that they deſire; tho they cannot ſubmit with a relucting Conſcience. If they aſſemble to pray to God, and to com<g ref="char:EOLhyphen"/>fort one another, they are accounted Criminals; and if they of<g ref="char:EOLhyphen"/>fer to leave the Kingdom, that they may enjoy that liberty, they are reputed equally culpable. Theſe are the Precipices on all ſides, from which they cannot deliver themſelves, but by renouncing ei<g ref="char:EOLhyphen"/>ther their Conſciences, or their Lives. In ſuch an extream Perplexity, thoſe poor People are ſolicitouſly Inquiſitive, to know whether it be the King's pleaſure, that they ſhould reap ſuch bitter Fruits from a Peace, which they have ſo much defired. They cannot be con<g ref="char:EOLhyphen"/>vinc'd, that Royal Goodneſs can allow ſuch Violences; and they are perſwaded that if the is Humble Complaints could but meet with a free acceſs to His Majeſty's Throne, he would be moved with Compaſſion towards them, and receive their Defences; which are the ſame with thoſe of the Primitive Chriſtians, in that excel<g ref="char:EOLhyphen"/>lent Apology of <hi>Tertullian.</hi> Their meetings were accounted fac<g ref="char:EOLhyphen"/>tious, as if when they met to worſhip God, they had violated the Emperors Command: And they defended themſelves by this Grand Principle: That Religion could not be forc'd; and that Divine ſervice was a pure Act of the Will. We aſſemble, ſay they, to Pray to God, to read the Holy Scriptures, which neuriſh our Faith, raiſe our Hopes, and ſtrengthen our Confidence in God. Male<g ref="char:EOLhyphen"/>factors tremble when they are ſurpriſed, and deny all when they are accuſed; but Chriſtians are not aſham'd when it is diſcover'd what they are; and they repent of nothing elſe, but that they did not ſooner, obey the Commandments of Jeſus Chriſt. They would force a Chriſtian to deny what he is, to the End that he may be ab<g ref="char:EOLhyphen"/>ſolv'd; which is, in truth, to betray the Holineſs of <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aws, <hi>&amp;c.</hi> Several Cavaliers have been diſgraced of late for interceeding with the King for the Proteſtants: And ſome ſay, That His Majeſty be<g ref="char:EOLhyphen"/>ing diſpleaſed at the Parliament of <hi>Paris,</hi> for having revok'd the Sentences of Death given againſt ſeveral of the new, Converts in the Country, had thereupon Ordered that they ſhould Appeal no more to that Court.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
